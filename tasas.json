@@ -1,9 +1,9 @@
 {
   "ultima_actualizacion": "22/07/2025 21:45:30",
   "dominicana": [
-    { "min": 0, "max": 2000, "tasa": 2.07 },
-    { "min": 2001, "max": 10000, "tasa": 2.08 },
-    { "min": 10001, "max": 20000, "tasa": 2.09 }
+    { "min": 0, "max": 2000, "tasa": 3.07 },
+    { "min": 2001, "max": 10000, "tasa": 3.08 },
+    { "min": 10001, "max": 20000, "tasa": 3.09 }
   ],
   "otros": {
     "colombia": 32.25,
