@@ -1,12 +1,16 @@
 {
-  "ultima_actualizacion": "22/07/2025 21:45:30",
+  "ultima_actualizacion": "29/07/2025 10:00:00",
   "referencias_usd": {
-    "dominicana": 60.5,
-    "peru": 3.85,
-    "ecuador": 1,
-    "colombia": 3950,
-    "chile": 950,
-    "zelle": 1
+    "colombia": 3920.00,
+    "venezuela": 165.00,
+    "dominicana": 61.20,
+    "peru": 3.56,
+    "chile": 970.00,
+    "ecuador": 1.00,
+    "usa": 1.00,
+    "paypal": 1.00,
+    "europa": 0.94,
+    "brasil": 5.22
   },
   "dominicana": [
     { "min": 0, "max": 2000, "tasa": 3.07 },
