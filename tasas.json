@@ -1,15 +1,17 @@
-{  "ultima_actualizacion": "19/09/2025 11:00:00",
+{  
+  "ultima_actualizacion": "19/09/2025 11:00:00",
   "referencias_usd": {
-    "colombia": 3810.00,
-    "venezuela": 263,
-    "dominicana": 63.40,
-    "peru": 3.53,
+    "brasil": 4.92,
     "chile": 970.00,
+    "colombia": 3810.00,
+    "dominicana": 63.40,
     "ecuador": 1.00,
-    "usa": 1.00,
-    "paypal": 1.00,
     "europa": 0.94,
-    "brasil": 4.92
+    "mexico": 18.65,
+    "paypal": 1.00,
+    "peru": 3.53,
+    "usa": 1.00,
+    "venezuela": 263
   },
   "dominicana": [
     { "min": 0, "max": 2000, "tasa": 3.8164},
@@ -19,7 +21,8 @@
   "otros": {
     "colombia": 15.746,
     "peru": 69.131,
-    "ecuador": 241.96
+    "ecuador": 241.96,
+    "chile": 0.255
   },
   "app": 3.83715
 }
