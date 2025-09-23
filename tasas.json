@@ -4,7 +4,7 @@
     "brasil": 4.92,
     "chile": 970.00,
     "colombia": 3810.00,
-    "dominicana": 62.60,
+    "dominicana": 62.70,
     "ecuador": 1.00,
     "europa": 0.94,
     "mexico": 18.80,
@@ -14,9 +14,9 @@
     "venezuela": 268.5
   },
   "dominicana": [
-    { "min": 0, "max": 2000, "tasa": 3.92456},
-    { "min": 2001, "max": 10000, "tasa": 3.92499},
-    { "min": 10001, "max": 20000, "tasa": 3.92585}
+    { "min": 0, "max": 2000, "tasa": 3.9183},
+    { "min": 2001, "max": 10000, "tasa": 3.91873},
+    { "min": 10001, "max": 20000, "tasa": 3.91959}
   ],
   "otros": {
     "colombia": 15.508,
@@ -25,5 +25,5 @@
     "mexico": 12.87766,
     "chile": 0.253
   },
-  "app": 3.94601
+  "app": 3.93971
 }
