@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "03/10/2025 09:00:00",
+  "ultima_actualizacion": "03/10/2025 11:00:00",
   "referencias_usd": {
     "brasil": 4.92,
     "chile": 970.0,
@@ -14,9 +14,9 @@
     "venezuela": 293.0
   },
   "dominicana": [
-    { "min": 0, "max": 2000, "tasa": 4.27873 },
-    { "min": 2001, "max": 10000, "tasa": 4.2792 },
-    { "min": 10001, "max": "INF", "tasa": 4.28013 }
+    { "min": 0, "max": 2000, "tasa": 4.25548 },
+    { "min": 2001, "max": 10000, "tasa": 4.25594 },
+    { "min": 10001, "max": "INF", "tasa": 4.25687 }
   ],
   "otros": {
     "colombia": 14.353,
@@ -25,5 +25,5 @@
     "mexico": 12.853726,
     "chile": 0.276
   },
-  "app": 4.28013
+  "app": 4.27873
 }
